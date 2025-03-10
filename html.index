@@ -1,0 +1,45 @@
+<html>
+     <title>Need for speed</title>
+    <h1 style="color: pink;">Need for Speed</h1>
+
+    <p style="font-size: 18px;color: pink">
+    The <b>Need for Speed</b> franchise has over 25 titles since 1994, evolving from exotic racing to street culture and police pursuits. Each game adds new mechanics like open-world exploration, car customization, and AI. With its mix of speed, action, and storytelling, Need for Speed is one of the most iconic racing franchises. </p>
+
+    <table border="1">
+    <tr>
+        <th>Rank</th>
+        <th>Game</th>
+        <th>Platform</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Need for Speed: Most Wanted </td>
+        <td>PS2, Xbox, GameCube, PC</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Need for Speed: Underground 2</td>
+        <td>PS2, Xbox, GameCube, PC</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Need for Speed: Hot Pursuit</td>
+        <td>PS3, Xbox 360, PC</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>Need for Speed: Carbon</td>
+        <td>PS2, PS3, Xbox, Xbox 360, PC</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>Need for Speed: Heat</td>
+        <td>PS4, Xbox One, PC</td>
+    </tr>
+</table>
+
+   
+   
+   
+      <footer></footer>
+</html>
